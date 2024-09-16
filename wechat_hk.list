@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,wecom.work
 IP-CIDR,43.128.17.181/32,no-resolve
 IP-CIDR,43.129.2.0/24,no-resolve
+IP-CIDR,43.129.254.163/32,no-resolve
 IP-CIDR,43.129.255.87/32,no-resolve
 IP-CIDR,43.135.106.10/32,no-resolve
 IP-CIDR,43.154.240.0/24,no-resolve
